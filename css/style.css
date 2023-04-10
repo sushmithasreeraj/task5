@@ -1,0 +1,27 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.main_container{
+	width:50%;
+	margin:0 auto;
+}
+.landing_section{
+	background-color:black;
+	width:250px;
+	height:150px;
+	margin:200px 200px;
+}
+.logo span{
+	color:red;
+	margin:20px 20px;
+}
+.content{
+	color:white;
+	margin:5px;
+	line-height:1.5;
+	
+}
+.content p{
+	color:gray;
+}
